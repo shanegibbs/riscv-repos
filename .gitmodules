@@ -7,3 +7,6 @@
 [submodule "riscv-isa-sim"]
 	path = riscv-isa-sim
 	url = https://github.com/shanegibbs/riscv-isa-sim.git
+[submodule "riscv-pk"]
+	path = riscv-pk
+	url = https://github.com/riscv/riscv-pk.git
